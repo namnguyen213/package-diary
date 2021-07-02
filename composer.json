@@ -1,9 +1,9 @@
 {
-    "name": "foostart/package-post",
-    "description": "Manage post",
+    "name": "namnguyen213/package-diary",
+    "description": "Manage diary",
     "keywords": [
         "foostart",
-        "laravel 5 package post"
+        "laravel 5 package diary"
     ],
     "authors": [
         {
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Foostart\\Post\\": "/"
+            "Foostart\\Diary\\": "/"
         }
     },
     "minimum-stability": "dev"
